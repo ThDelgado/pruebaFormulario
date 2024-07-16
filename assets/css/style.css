@@ -1,0 +1,9 @@
+input[type="text"],
+[type="email"] {
+    border: none;
+}
+
+.in {
+    border: 1px solid #000000;
+    max-width: 25%;
+}
